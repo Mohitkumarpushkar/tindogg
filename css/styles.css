@@ -1,0 +1,147 @@
+
+
+
+#title{
+    background-color: rgb(227, 50, 106);
+    color: rgb(244, 244, 245);
+    padding-bottom: 6rem;
+}
+h1{
+   
+    font-size: 2.5rem;
+    line-height: 1.5;
+    padding-top:0.5;
+    padding-bottom: 1rem;
+    font-weight: bolder;
+    
+}
+.container-fluid{
+    padding:5% 10%;}
+    .navbar-brand{
+        
+        font-size: 2.5rem;
+        font-weight:1200;
+        padding-bottom: 1em;
+    }
+.nav-item{
+    padding-bottom: 2rem;
+    padding-right: 2em;
+    padding-top: 0.5rem;
+}
+.image-title{
+    width: 50%;
+    transform: rotate(30deg);
+    margin-left: 3.5rem;
+    position: absolute;
+    
+}
+.navbar-brand{
+    margin: 0;
+}
+#features{
+    padding: 5% 10%;
+    background-color: white;
+    position: relative;
+     z-index: 1;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: Montserrat-bold;
+}
+p{
+    color: gray;
+}
+.icon{
+    color: rgb(227, 50, 106);
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: red;
+}
+.testimonial-img{
+   margin-left: 4em;
+   
+   
+   border-radius: 100%;
+   
+}
+
+.test{
+    padding: 1em 2em 0 2em;
+    color: white;
+
+}
+.emp{
+    margin-left: 3em;
+    color:white;
+
+    padding-bottom: 2em;
+}
+.emp:hover{
+    color: rgb(214, 216, 87);
+}
+#testimonials{
+    margin: 0 auto 0 auto;
+    text-align: center;
+    background-color: rgb(227, 50, 106);
+    height: 75%;
+}
+#press{
+    text-align: center;
+    background-color: rgb(227, 50, 106);
+    padding-bottom: 3%;
+}
+.combine{
+    background-color:rgb(227, 50, 106); ;
+}
+.img-s{
+    width: 10%;
+    margin: 15px 20px;
+}
+#pricing{
+    margin-top: 16em;
+    padding-top: 10%;
+    padding: 100px;
+    text-align: center;
+}
+.pricing-coulumn{
+    padding: 3% 2%;
+   
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+
+}
+#cta{
+    color: white;
+    text-align: center;
+    background-color: rgb(227, 50, 106);
+    padding: 7% 15%;
+}
+.rex{
+    margin-top: 2em;
+    text-align: center;
+}
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+    }
+    .image-title{
+        position: static;
+        transform: rotate(0);
+        padding-top: 1rem;
+    }
+}
+.low-sec{
+    padding-bottom: 2rem;
+    font-size: 3.5rem;
+    height:1.5;
+}
+.social-icon{
+    padding-bottom: 1rem;
+}
+
